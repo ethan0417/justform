@@ -4,12 +4,17 @@ justform
 Extend the forms module to build a really form html. I add the form tag to include the result from forms. 
 So, the all context inside the form will follow the rule from "<a href="https://github.com/caolan/forms">forms</form>". Thanks caolan!
 
-Sample
-========
+<h2>Install</h2>
+```bash
+npm install justform
+```
+
+<h2>Sample</h2>
 The form.create has 2 parameters include: 
 * form options: include id, name, action, method, class, style that mapping to the form html.
 * content options: all follow the forms project.
 
+<h3>Code</h3>
 ```javascript
 var form = require('justform')
   , fields = form.fields
@@ -31,7 +36,7 @@ var html = form.create({
 console.log(html);
 ```
 
-Output:
+<h3>Output</h3>
 ========
 ```html
 <form  method="GET" name="myform" id="id" action="/test">
