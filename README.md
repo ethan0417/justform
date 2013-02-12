@@ -2,7 +2,7 @@ justform
 ========
 
 Extend the forms module to build a really form html. I add the form tag to include the result from forms. 
-So, the all context inside the form will follow the rule from "<a href="https://github.com/caolan/forms">forms</form>". Thanks caolan!
+So, the all context inside the form will follow the rule from "<a href="https://github.com/caolan/forms">forms</a>". Thanks caolan!
 
 <h2>Install</h2>
 ```bash
