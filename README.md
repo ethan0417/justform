@@ -9,7 +9,7 @@ So, the all context inside the form will follow the rule from "<a href="https://
 npm install justform
 ```
 
-<h2>Sample</h2>
+<h2>Use</h2>
 The form.create has 2 parameters include: 
 * form options: include id, name, action, method, class, style that mapping to the form html.
 * content options: all follow the forms project.
