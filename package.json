@@ -1,0 +1,26 @@
+{
+  "name": "justform",
+  "description": "Form Utility",
+  "version": "0.0.1",
+  "author": {
+    "name": "Simon Su",
+    "email": "simonsu.mail@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Simon Su",
+      "email": "simonsu.mail@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "forms": "*",
+    "log4js": "*"
+  },
+  "keywords": [
+    "form","javascript"
+  ],
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
